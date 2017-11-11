@@ -1,0 +1,68 @@
+html,
+body,
+main {
+    /* padding: 35px; */
+    height: 100%;
+    text-align: center;
+    margin: 0;
+    line-height: 1.8em;
+}
+
+
+.btn-transparrent {
+    color: black;
+}
+
+.social-link {
+    color: black;
+}
+
+.jumbotron {
+    /* stops gaps between jumbotrons */
+    padding-top: 150px;
+    padding-bottom: 150px;
+    margin-bottom: 0;
+}
+.display-3 {
+    color: white;
+}
+
+.pimg1 {
+    background-image: url("https://images.pexels.com/photos/247791/pexels-photo-247791.png?h=350&auto=compress&cs=tinysrgb");
+    background-position: center;
+    /*top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%; */
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    min-height: 100%;
+}
+
+
+
+.pimg3  {
+    background-image: url("compglass.jpeg");
+    background-position: center;
+    /*top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%; */
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    min-height: 400px;
+    color: white;
+}
+
+
+
+.info {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    margin-bottom: 0;
+    color: white;
+}
+
+.sinfo {
+    color:white;
+}
