@@ -37,6 +37,8 @@ main {
     background-repeat: no-repeat !important;
     background-size: cover !important;
     min-height: 100%;
+    background-attachment: fixed;
+    text-align: center; 
 }
 
 
@@ -52,6 +54,8 @@ main {
     background-size: cover !important;
     min-height: 400px;
     color: white;
+    background-attachment: fixed;
+    text-align: center;
 }
 
 
