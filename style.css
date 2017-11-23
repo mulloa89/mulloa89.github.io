@@ -6,6 +6,7 @@ main {
     text-align: center;
     margin: 0;
     line-height: 1.8em;
+    background-color: #E9ECEF;
 }
 
 
@@ -28,12 +29,8 @@ main {
 }
 
 .pimg1 {
-    background-image: url("https://images.pexels.com/photos/247791/pexels-photo-247791.png?h=350&auto=compress&cs=tinysrgb");
+    background-image: url("https://static.pexels.com/photos/546819/pexels-photo-546819.jpeg");
     background-position: center;
-    /*top: 0;
-    left: 0;
-    min-width: 100%;
-    min-height: 100%; */
     background-repeat: no-repeat !important;
     background-size: cover !important;
     min-height: 100%;
@@ -46,10 +43,6 @@ main {
 .pimg3  {
     background-image: url("compglass.jpeg");
     background-position: center;
-    /*top: 0;
-    left: 0;
-    min-width: 100%;
-    min-height: 100%; */
     background-repeat: no-repeat !important;
     background-size: cover !important;
     min-height: 400px;
@@ -69,4 +62,8 @@ main {
 
 .sinfo {
     color:white;
+}
+
+.footer {
+    background-color: #E9ECEF
 }
